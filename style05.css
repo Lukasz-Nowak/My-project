@@ -1,0 +1,107 @@
+
+
+body
+{
+  background-color: #333333;
+	background-size: cover;
+	background-image: url('https://cdn.wallpapersafari.com/56/26/D9tBwR.jpg');
+    background-repeat: no-repeat;
+    padding: 0;
+    background-attachment: fixed;
+    background-position: top;  
+}
+
+
+#container
+{
+  width: 1520px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#logo
+{
+  background-image: url('https://i.imgur.com/0ENz5wc.jpg');
+  width: 1660px;
+  height: 170px;
+  color: #990033;
+  margin-top: 20px;
+  font-size: 30px;
+  font-weight: 500;
+  letter-spacing: 4px;
+  font-family: 'Audiowide', cursive;
+  text-align: center;
+  text-shadow: 5px 5px 0 black;
+}
+
+#bonus
+{
+  width: 1600px;
+  height: 800px;
+  text-align: center;
+}
+
+#rectangle1
+{
+	width: 1200px;
+	height: 1600px;
+	margin: 10px;
+	padding-left: 50px;
+	font-size: 36px;
+	text-align: left;
+	color: #BBBBBB;
+	text-shadow: 2px 2px 0 #0066ff;
+	font-family: 'Audiowide', cursive;
+	font-weight: 100;
+	float: left;
+
+}
+
+
+
+
+#rectangle2
+{
+	float: right;
+	width: 600px;
+	margin-top: 50px;
+	margin-left: 900px;
+}
+
+
+
+
+#footer
+{
+  font-family: 'Scada', sans-serif;
+  clear: both; 
+  color: white;
+  text-align: center;
+  padding: 30px;
+  font-size: 14px;
+  text-shadow: none;
+  margin-bottom: 20px;
+
+}
+
+/*Nieodwiedzony link*/
+a:link
+{
+
+  color: white;
+}
+
+/*Odwiedzony link*/
+a:visited
+{
+  color: white;
+  text-shadow: none;
+}
+
+/*Link po najechaniu kursorem*/
+a:hover
+{
+  color: #BBBBBB;
+}
+
+
